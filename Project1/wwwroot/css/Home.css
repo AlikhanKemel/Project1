@@ -1,0 +1,31 @@
+﻿
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 0px;
+    left: 160px;
+    font-size:15px;
+    color:black;
+}
+
+/* Top left text */
+.top-left {
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    font-size:35px;
+    color:black;
+}
+.gardens {
+    text-align: left;
+    padding-top: 40px;
+}
+.garden {
+    color:black;
+    padding-top:40px;
+    text-align:left;
+}

@@ -1,0 +1,14 @@
+﻿.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container{
+    text-align:center
+}
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px
+}
